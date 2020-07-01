@@ -49,6 +49,6 @@ button:focus,button:hover{
         
     }
     textarea{
-    padding:0px;
+    padding:0px;width:70%;
     }
 }
